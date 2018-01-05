@@ -1,0 +1,1420 @@
+{
+  "feed_instance_id": "1ad90641-7789-4a7d-910b-416849ecd315",
+  "playlist": [
+    {
+      "mediaid": "GQlE6Rqd",
+      "description": "Directed by Stanley Kubrick: A mediation on the nature of humanity and culture beginning with pre-human discovery of tools and the future of the tools we create in our image.  The first true exposition on the social impact of Artificial Intelligence by a true visionary",
+      "pubdate": 1489104000,
+      "tags": "science fiction,trailer,artificial intelligence",
+      "image": "https://content.jwplatform.com/thumbs/GQlE6Rqd-720.jpg",
+      "title": "2001 A Space Odyssey",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 111,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/GQlE6Rqd.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/GQlE6Rqd-AgylS15n.mp4",
+          "duration": 111,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/GQlE6Rqd-8LSW5F2t.mp4",
+          "duration": 111,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/GQlE6Rqd-PA9rXzRh.mp4",
+          "duration": 111,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/GQlE6Rqd-pSu3VlhO.m4a",
+          "duration": 111,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/GQlE6Rqd-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/GQlE6Rqd",
+      "duration": 111
+    },
+    {
+      "mediaid": "Vi8G4uXz",
+      "description": "Directed by Stanley Kubrick.  A useless cad wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+      "pubdate": 1489231361,
+      "tags": "trailer,europe",
+      "image": "https://content.jwplatform.com/thumbs/Vi8G4uXz-720.jpg",
+      "title": "Barry Lyndon",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 131,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/Vi8G4uXz.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/Vi8G4uXz-AgylS15n.mp4",
+          "duration": 131,
+          "height": 238,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/Vi8G4uXz-8LSW5F2t.mp4",
+          "duration": 131,
+          "height": 358,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/Vi8G4uXz-PA9rXzRh.mp4",
+          "duration": 131,
+          "height": 536,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/Vi8G4uXz-pSu3VlhO.m4a",
+          "duration": 131,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "captions",
+          "file": "https://content.jwplatform.com/tracks/bhQKuTP5.vtt",
+          "label": "showcase_globalsearch_captiontestfile"
+        },
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/Vi8G4uXz-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/Vi8G4uXz",
+      "duration": 131
+    },
+    {
+      "mediaid": "ulIvytGU",
+      "description": "Mankind faces a new threat as Batman (Ben Affleck) embarks on a personal vendetta against Superman (Henry Cavill).",
+      "pubdate": 1449848295,
+      "tags": "fantasy,action and adventure and fun,trailer",
+      "image": "https://content.jwplatform.com/thumbs/ulIvytGU-720.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 181,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/ulIvytGU.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/ulIvytGU-AgylS15n.mp4",
+          "duration": 181,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/ulIvytGU-8LSW5F2t.mp4",
+          "duration": 181,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/ulIvytGU-PA9rXzRh.mp4",
+          "duration": 181,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/ulIvytGU-p3ZNjGCa.mp4",
+          "duration": 181,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/ulIvytGU-pSu3VlhO.m4a",
+          "duration": 181,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/ulIvytGU-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/ulIvytGU",
+      "duration": 181
+    },
+    {
+      "mediaid": "127Vi5Xd",
+      "description": "In an adaptation of Patricia Highsmith’s seminal novel The Price of Salt, CAROL follows two women from very different backgrounds who find themselves in an unexpected love affair in 1950s New York. As conventional norms of the time challenge their undeniable attraction, an honest story emerges to reveal the resilience of the heart in the face of change.",
+      "pubdate": 1449848295,
+      "tags": "drama,romance,trailer",
+      "image": "https://content.jwplatform.com/thumbs/127Vi5Xd-720.jpg",
+      "title": "Carol",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 90,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/127Vi5Xd.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/127Vi5Xd-AgylS15n.mp4",
+          "duration": 90,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/127Vi5Xd-8LSW5F2t.mp4",
+          "duration": 90,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/127Vi5Xd-PA9rXzRh.mp4",
+          "duration": 90,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/127Vi5Xd-p3ZNjGCa.mp4",
+          "duration": 90,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/127Vi5Xd-pSu3VlhO.m4a",
+          "duration": 90,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/127Vi5Xd-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/127Vi5Xd",
+      "duration": 90
+    },
+    {
+      "mediaid": "DqGECHhT",
+      "description": "The story follows a one-time bullied geek who grew up to be a lethal CIA agent (Johnson), coming home for his high school reunion. Claiming to be on a top-secret case, he enlists the help of the former “big man on campus” (Hart), now an accountant who misses his glory days. But before the staid numbers-cruncher realizes what he’s getting into, it’s too late to get out, as his increasingly unpredictable new friend drags him through a world of shoot-outs, double-crosses and espionage that could get them both killed in more ways than he can count.",
+      "pubdate": 1449848295,
+      "tags": "action and adventure and fun,comedy,trailer",
+      "image": "https://content.jwplatform.com/thumbs/DqGECHhT-720.jpg",
+      "title": "Central Intelligence",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 109,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/DqGECHhT.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/DqGECHhT-AgylS15n.mp4",
+          "duration": 109,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/DqGECHhT-8LSW5F2t.mp4",
+          "duration": 109,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/DqGECHhT-PA9rXzRh.mp4",
+          "duration": 109,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/DqGECHhT-p3ZNjGCa.mp4",
+          "duration": 109,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/DqGECHhT-pSu3VlhO.m4a",
+          "duration": 109,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/DqGECHhT-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/DqGECHhT",
+      "duration": 109
+    },
+    {
+      "mediaid": "FV4n0UaB",
+      "description": "Will Smith stars in Concussion, a dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu’s emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+      "pubdate": 1449848295,
+      "tags": "drama,thriller,trailer",
+      "image": "https://content.jwplatform.com/thumbs/FV4n0UaB-720.jpg",
+      "title": "Concussion",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 148,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/FV4n0UaB.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/FV4n0UaB-AgylS15n.mp4",
+          "duration": 148,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/FV4n0UaB-8LSW5F2t.mp4",
+          "duration": 148,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/FV4n0UaB-PA9rXzRh.mp4",
+          "duration": 148,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/FV4n0UaB-p3ZNjGCa.mp4",
+          "duration": 148,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/FV4n0UaB-pSu3VlhO.m4a",
+          "duration": 148,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/FV4n0UaB-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/FV4n0UaB",
+      "duration": 148
+    },
+    {
+      "mediaid": "rfmZrDyS",
+      "description": "Four friends stumble into a deal too good to refuse. But when the investment goes bad, they learn that part of their funding came from a notoriously ruthless crime boss… and it’s payback time. Now, they must successfully kidnap a family member of a rival kingpin in order to erase the life-threatening debt. In way over their heads, if they can complete the assigned task without screwing up, they just might escape with their lives.",
+      "pubdate": 1449848295,
+      "tags": "thriller,trailer",
+      "image": "https://content.jwplatform.com/thumbs/rfmZrDyS-720.jpg",
+      "title": "Criminal Activities",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 125,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/rfmZrDyS.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/rfmZrDyS-AgylS15n.mp4",
+          "duration": 125,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/rfmZrDyS-8LSW5F2t.mp4",
+          "duration": 125,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/rfmZrDyS-PA9rXzRh.mp4",
+          "duration": 125,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/rfmZrDyS-p3ZNjGCa.mp4",
+          "duration": 125,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/rfmZrDyS-pSu3VlhO.m4a",
+          "duration": 125,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/rfmZrDyS-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/rfmZrDyS",
+      "duration": 125
+    },
+    {
+      "mediaid": "lUGmHThO",
+      "description": "When a detective (Keanu Reeves) starts to investigate his partner’s shocking death, he uncovers disturbing evidence of police corruption and a dangerous secret involving an unlikely young woman (Ana De Armas).",
+      "pubdate": 1449848295,
+      "tags": "thriller,trailer",
+      "image": "https://content.jwplatform.com/thumbs/lUGmHThO-720.jpg",
+      "title": "Exposed",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 120,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/lUGmHThO.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/lUGmHThO-AgylS15n.mp4",
+          "duration": 120,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/lUGmHThO-8LSW5F2t.mp4",
+          "duration": 120,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/lUGmHThO-PA9rXzRh.mp4",
+          "duration": 120,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/lUGmHThO-p3ZNjGCa.mp4",
+          "duration": 120,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/lUGmHThO-pSu3VlhO.m4a",
+          "duration": 120,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/lUGmHThO-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/lUGmHThO",
+      "duration": 120
+    },
+    {
+      "mediaid": "RKWC0dVe",
+      "description": "EYE IN THE SKY stars Helen Mirren as Colonel Katherine Powell, a UK-based military officer in command of a top-secret drone operation to capture terrorists in Kenya. Through remote surveillance and on-the-ground intel, Powell discovers that the targets are planning a suicide bombing, and the mission escalates from “capture” to “kill.” But as American pilot Steve Watts (Aaron Paul) is about to engage, a nine-year old girl enters the kill zone, triggering an international dispute reaching the highest levels of US and British government over the moral, political, and personal implications of modern warfare.",
+      "pubdate": 1449848295,
+      "tags": "drama,thriller,trailer",
+      "image": "https://content.jwplatform.com/thumbs/RKWC0dVe-720.jpg",
+      "title": "Eye in the Sky",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 147,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/RKWC0dVe.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/RKWC0dVe-AgylS15n.mp4",
+          "duration": 147,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/RKWC0dVe-8LSW5F2t.mp4",
+          "duration": 147,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/RKWC0dVe-PA9rXzRh.mp4",
+          "duration": 147,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/RKWC0dVe-p3ZNjGCa.mp4",
+          "duration": 147,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/RKWC0dVe-pSu3VlhO.m4a",
+          "duration": 147,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/RKWC0dVe-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/RKWC0dVe",
+      "duration": 147
+    },
+    {
+      "mediaid": "ghZEPsKo",
+      "description": "Jack (Henry Rollins) is in a rut. His existence has been whittled down to sleeping and watching TV, and he sees the human race as little more than meat with a pulse. When Jack suddenly finds his long-lost daughter taken by the city’s crime syndicate, he must combat his inner demons as he embarks on a bloody war path to seek revenge and save her.",
+      "pubdate": 1449848295,
+      "tags": "drama,thriller,trailer",
+      "image": "https://content.jwplatform.com/thumbs/ghZEPsKo-720.jpg",
+      "title": "He Never Died",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 134,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/ghZEPsKo.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/ghZEPsKo-AgylS15n.mp4",
+          "duration": 134,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/ghZEPsKo-8LSW5F2t.mp4",
+          "duration": 134,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/ghZEPsKo-PA9rXzRh.mp4",
+          "duration": 134,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/ghZEPsKo-p3ZNjGCa.mp4",
+          "duration": 134,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/ghZEPsKo-pSu3VlhO.m4a",
+          "duration": 134,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/ghZEPsKo-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/ghZEPsKo",
+      "duration": 134
+    },
+    {
+      "mediaid": "dNx9iB5T",
+      "description": "After a lifetime of being overlooked and ignored, a woman of a certain age finds her world turned upside down by a handsome new co-worker and a self-help seminar that inspires her to take a chance on love in Hello, My Name is Doris, a witty and compassionate late-life coming-of-age-story. When Doris Miller (Sally Field) meets John Fremont (Max Greenfield), her company’s hip new art director, sparks fly—at least for Doris.",
+      "pubdate": 1449848295,
+      "tags": "comedy,trailer",
+      "image": "https://content.jwplatform.com/thumbs/dNx9iB5T-720.jpg",
+      "title": "Hello My Name is Doris",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 149,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/dNx9iB5T.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/dNx9iB5T-AgylS15n.mp4",
+          "duration": 149,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/dNx9iB5T-8LSW5F2t.mp4",
+          "duration": 149,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/dNx9iB5T-PA9rXzRh.mp4",
+          "duration": 149,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/dNx9iB5T-p3ZNjGCa.mp4",
+          "duration": 149,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/dNx9iB5T-pSu3VlhO.m4a",
+          "duration": 149,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/dNx9iB5T-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/dNx9iB5T",
+      "duration": 149
+    },
+    {
+      "mediaid": "sky4zhJe",
+      "description": "When a man meets a young girl in a parking lot he attempts to help her avoid a bleak destiny by initiating her into the beauty of the outside world. The journey shakes them in ways neither expects.",
+      "pubdate": 1449848295,
+      "tags": "drama,trailer",
+      "image": "https://content.jwplatform.com/thumbs/sky4zhJe-720.jpg",
+      "title": "Lamb",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 120,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/sky4zhJe.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/sky4zhJe-AgylS15n.mp4",
+          "duration": 120,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/sky4zhJe-8LSW5F2t.mp4",
+          "duration": 120,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/sky4zhJe-PA9rXzRh.mp4",
+          "duration": 120,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/sky4zhJe-p3ZNjGCa.mp4",
+          "duration": 120,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/sky4zhJe-pSu3VlhO.m4a",
+          "duration": 120,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/sky4zhJe-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/sky4zhJe",
+      "duration": 120
+    },
+    {
+      "mediaid": "wVwRwdZR",
+      "description": "Four small-town losers stumble across an alien crash site containing an incredible battle suit. One round of bickering and a quick scuffle later, they each find themselves wearing a piece of the suit, which has genetically bound itself to them. Now, they must work together as one to save humanity.",
+      "pubdate": 1449848295,
+      "tags": "action and adventure and fun,science fiction,comedy,trailer",
+      "image": "https://content.jwplatform.com/thumbs/wVwRwdZR-720.jpg",
+      "title": "Lazer Team",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 149,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/wVwRwdZR.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/wVwRwdZR-AgylS15n.mp4",
+          "duration": 149,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/wVwRwdZR-8LSW5F2t.mp4",
+          "duration": 149,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/wVwRwdZR-PA9rXzRh.mp4",
+          "duration": 149,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/wVwRwdZR-p3ZNjGCa.mp4",
+          "duration": 149,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/wVwRwdZR-pSu3VlhO.m4a",
+          "duration": 149,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/wVwRwdZR-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/wVwRwdZR",
+      "duration": 149
+    },
+    {
+      "mediaid": "QYgO4kau",
+      "description": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously transported to the 1920s everyday at midnight.  Staring Owen Wilson and Rachel McAdams.  Directed by Woody Allen, released in 2011",
+      "pubdate": 1489228674,
+      "tags": "comedy,trailer,absurdist,woody allen",
+      "image": "https://content.jwplatform.com/thumbs/QYgO4kau-720.jpg",
+      "title": "Midnight In Paris",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 125,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/QYgO4kau.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/QYgO4kau-AgylS15n.mp4",
+          "duration": 125,
+          "height": 182,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/QYgO4kau-8LSW5F2t.mp4",
+          "duration": 125,
+          "height": 272,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/QYgO4kau-PA9rXzRh.mp4",
+          "duration": 125,
+          "height": 408,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/QYgO4kau-pSu3VlhO.m4a",
+          "duration": 125,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/QYgO4kau-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/QYgO4kau",
+      "duration": 125
+    },
+    {
+      "mediaid": "ALmJG4ia",
+      "description": "In the sci-fi thriller “Midnight Special,” writer/director Jeff Nichols proves again that he is one of the most compelling storytellers of our time, as a father (Michael Shannon) goes on the run to protect his young son, Alton (Jaeden Lieberher), and uncover the truth behind the boy’s special powers. What starts as a race from religious extremists and local law enforcement quickly escalates to a nationwide manhunt involving the highest levels of the Federal Government. Ultimately his father risks everything to protect Alton and help fulfill a destiny that could change the world forever in this genre–defying film as supernatural as it is intimately human.",
+      "pubdate": 1449848295,
+      "tags": "science fiction,thriller,trailer",
+      "image": "https://content.jwplatform.com/thumbs/ALmJG4ia-720.jpg",
+      "title": "Midnight Special",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 105,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/ALmJG4ia.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/ALmJG4ia-AgylS15n.mp4",
+          "duration": 105,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/ALmJG4ia-8LSW5F2t.mp4",
+          "duration": 105,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/ALmJG4ia-PA9rXzRh.mp4",
+          "duration": 105,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/ALmJG4ia-p3ZNjGCa.mp4",
+          "duration": 105,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/ALmJG4ia-pSu3VlhO.m4a",
+          "duration": 105,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/ALmJG4ia-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/ALmJG4ia",
+      "duration": 105
+    },
+    {
+      "mediaid": "hAZEPou7",
+      "description": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate—an international rogue organization as highly skilled as they are, committed to destroying the IMF.",
+      "pubdate": 1449848295,
+      "tags": "action and adventure and fun,trailer",
+      "image": "https://content.jwplatform.com/thumbs/hAZEPou7-720.jpg",
+      "title": "Mission Impossible: Rogue Nation",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 151,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/hAZEPou7.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/hAZEPou7-AgylS15n.mp4",
+          "duration": 151,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/hAZEPou7-8LSW5F2t.mp4",
+          "duration": 151,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/hAZEPou7-PA9rXzRh.mp4",
+          "duration": 151,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/hAZEPou7-p3ZNjGCa.mp4",
+          "duration": 151,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/hAZEPou7-pSu3VlhO.m4a",
+          "duration": 151,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/hAZEPou7-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/hAZEPou7",
+      "duration": 151
+    },
+    {
+      "mediaid": "mFJOL68I",
+      "description": "It’s the beginning of the summer. In a village in the north of Turkey, Lale and her four sisters come home from school, innocently playing with boys. The supposed debauchery of their games causes a scandal with unintended consequences. The family home slowly turns into a prison, classes on housework and cooking replace school, and marriages begin to be arranged. The five sisters, driven by the same desire for freedom, fight back against the limits imposed on them.",
+      "pubdate": 1449848295,
+      "tags": "drama,trailer",
+      "image": "https://content.jwplatform.com/thumbs/mFJOL68I-720.jpg",
+      "title": "Mustang",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 120,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/mFJOL68I.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/mFJOL68I-AgylS15n.mp4",
+          "duration": 120,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/mFJOL68I-8LSW5F2t.mp4",
+          "duration": 120,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/mFJOL68I-PA9rXzRh.mp4",
+          "duration": 120,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/mFJOL68I-p3ZNjGCa.mp4",
+          "duration": 120,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/mFJOL68I-pSu3VlhO.m4a",
+          "duration": 120,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/mFJOL68I-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/mFJOL68I",
+      "duration": 120
+    },
+    {
+      "mediaid": "kiq5jnfX",
+      "description": "With automatic access to genius, Noma: My Perfect Storm is a creative journey into the unique mind of René Redzepi. How did Redzepi manage to revolutionize the entire world of gastronomy, inventing the alphabet and vocabulary that would infuse newfound pedigree to Nordic cuisine and establish a new edible world while radically changing the image of the modern chef?",
+      "pubdate": 1449848295,
+      "tags": "documentary,trailer",
+      "image": "https://content.jwplatform.com/thumbs/kiq5jnfX-720.jpg",
+      "title": "Noma",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 122,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/kiq5jnfX.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/kiq5jnfX-AgylS15n.mp4",
+          "duration": 122,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/kiq5jnfX-8LSW5F2t.mp4",
+          "duration": 122,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/kiq5jnfX-PA9rXzRh.mp4",
+          "duration": 122,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/kiq5jnfX-p3ZNjGCa.mp4",
+          "duration": 122,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/kiq5jnfX-pSu3VlhO.m4a",
+          "duration": 122,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/kiq5jnfX-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/kiq5jnfX",
+      "duration": 122
+    },
+    {
+      "mediaid": "Iyfst4Se",
+      "description": "Starring Michael Keaton, Mark Ruffalo, Rachel McAdams, Liev Schreiber, Brian d’Arcy James and Stanley Tucci, Spotlight tells the riveting true story of the Pulitzer Prize-winning Boston Globe investigation that would rock the city and cause a crisis in one of the world’s oldest and most trusted institutions.",
+      "pubdate": 1449848296,
+      "tags": "drama,trailer",
+      "image": "https://content.jwplatform.com/thumbs/Iyfst4Se-720.jpg",
+      "title": "Spotlight",
+      "junction_id": "asdfsdf",
+      "custom": {
+        "client": "cinedigm",
+        "junction_id": "asdfsdf"
+      },
+      "sources": [
+        {
+          "duration": 151,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/Iyfst4Se.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/Iyfst4Se-AgylS15n.mp4",
+          "duration": 151,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/Iyfst4Se-8LSW5F2t.mp4",
+          "duration": 151,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/Iyfst4Se-PA9rXzRh.mp4",
+          "duration": 151,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/Iyfst4Se-p3ZNjGCa.mp4",
+          "duration": 151,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/Iyfst4Se-pSu3VlhO.m4a",
+          "duration": 151,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "captions",
+          "file": "https://content.jwplatform.com/tracks/Tlfho8GX.vtt",
+          "label": "Untitled Captions Track"
+        },
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/Iyfst4Se-120.vtt"
+        }
+      ],
+      "client": "cinedigm",
+      "link": "https://content.jwplatform.com/previews/Iyfst4Se",
+      "duration": 151
+    },
+    {
+      "mediaid": "92XQ91bP",
+      "description": "Star Wars: The Force Awakens opens in theaters December 18, 2015. Star Wars: The Force Awakens is directed by J.J. Abrams from a screenplay by Lawrence Kasdan & Abrams, and features a cast including actors John Boyega, Daisy Ridley, Adam Driver, Oscar Isaac, Andy Serkis, Academy Award winner Lupita Nyong’o, Gwendoline Christie, Crystal Clarke, Pip Andersen, Domhnall Gleeson, and Max von Sydow.",
+      "pubdate": 1449848296,
+      "tags": "action and adventure and fun,science fiction,trailer",
+      "image": "https://content.jwplatform.com/thumbs/92XQ91bP-720.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "nvgid": "qwfgqgfwqfgaqf",
+      "custom": {
+        "nvgid": "qwfgqgfwqfgaqf"
+      },
+      "sources": [
+        {
+          "duration": 138,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/92XQ91bP.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/92XQ91bP-AgylS15n.mp4",
+          "duration": 138,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/92XQ91bP-8LSW5F2t.mp4",
+          "duration": 138,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/92XQ91bP-PA9rXzRh.mp4",
+          "duration": 138,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/92XQ91bP-p3ZNjGCa.mp4",
+          "duration": 138,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/92XQ91bP-pSu3VlhO.m4a",
+          "duration": 138,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "captions",
+          "file": "https://content.jwplatform.com/tracks/RramTuTM.vtt",
+          "label": "showcase_globalsearch_captiontestfile"
+        },
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/92XQ91bP-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/92XQ91bP",
+      "duration": 138
+    },
+    {
+      "mediaid": "RltV8MtT",
+      "description": "The talents of three of the world’s greatest storytellers—Roald Dahl, Walt Disney and Steven Spielberg—finally unite to bring Dahl’s beloved classic “The BFG” to life. Directed by Spielberg, Disney’s “The BFG” tells the imaginative story of a young girl and the Giant who introduces her to the wonders and perils of Giant Country.",
+      "pubdate": 1449848296,
+      "tags": "fantasy,action and adventure and fun,trailer",
+      "image": "https://content.jwplatform.com/thumbs/RltV8MtT-720.jpg",
+      "title": "The BFG",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 110,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/RltV8MtT.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/RltV8MtT-AgylS15n.mp4",
+          "duration": 110,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/RltV8MtT-8LSW5F2t.mp4",
+          "duration": 110,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/RltV8MtT-PA9rXzRh.mp4",
+          "duration": 110,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/RltV8MtT-p3ZNjGCa.mp4",
+          "duration": 110,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/RltV8MtT-pSu3VlhO.m4a",
+          "duration": 110,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "captions",
+          "file": "https://content.jwplatform.com/tracks/l8GsW8fj.vtt",
+          "label": "showcase_globalsearch_captiontestfile"
+        },
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/RltV8MtT-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/RltV8MtT",
+      "duration": 110
+    },
+    {
+      "mediaid": "LjBvF1FX",
+      "description": "Set in the world of NYC publishing, a young book editor is forced to confront a troubling part of her past when a bestselling author re-enters her life.",
+      "pubdate": 1449848296,
+      "tags": "drama,trailer",
+      "image": "https://content.jwplatform.com/thumbs/LjBvF1FX-720.jpg",
+      "title": "The Girl in the Book",
+      "custom": {},
+      "sources": [
+        {
+          "duration": 137,
+          "type": "application/vnd.apple.mpegurl",
+          "file": "https://content.jwplatform.com/manifests/LjBvF1FX.m3u8"
+        },
+        {
+          "label": "H.264 320px",
+          "width": 320,
+          "file": "https://content.jwplatform.com/videos/LjBvF1FX-AgylS15n.mp4",
+          "duration": 137,
+          "height": 180,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 480px",
+          "width": 480,
+          "file": "https://content.jwplatform.com/videos/LjBvF1FX-8LSW5F2t.mp4",
+          "duration": 137,
+          "height": 270,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 720px",
+          "width": 720,
+          "file": "https://content.jwplatform.com/videos/LjBvF1FX-PA9rXzRh.mp4",
+          "duration": 137,
+          "height": 406,
+          "type": "video/mp4"
+        },
+        {
+          "label": "H.264 1280px",
+          "width": 1280,
+          "file": "https://content.jwplatform.com/videos/LjBvF1FX-p3ZNjGCa.mp4",
+          "duration": 137,
+          "height": 720,
+          "type": "video/mp4"
+        },
+        {
+          "label": "AAC Audio",
+          "width": -1,
+          "file": "https://content.jwplatform.com/videos/LjBvF1FX-pSu3VlhO.m4a",
+          "duration": 137,
+          "height": -1,
+          "type": "audio/mp4"
+        }
+      ],
+      "tracks": [
+        {
+          "kind": "thumbnails",
+          "file": "https://content.jwplatform.com/strips/LjBvF1FX-120.vtt"
+        }
+      ],
+      "link": "https://content.jwplatform.com/previews/LjBvF1FX",
+      "duration": 137
+    }
+  ],
+  "feedid": "f49AJ8N4",
+  "kind": "dynamic",
+  "title": "Design Team Example Feed"
+}

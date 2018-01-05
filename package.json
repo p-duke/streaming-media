@@ -1,0 +1,29 @@
+{
+  "name": "jwplayer-code-challenge",
+  "version": "1.0.0",
+  "description": "Simple dynamic webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-duke/jwplayer-code-challenge.git"
+  },
+  "author": "peter duke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-duke/jwplayer-code-challenge/issues"
+  },
+  "homepage": "https://github.com/p-duke/jwplayer-code-challenge#readme",
+  "devDependencies": {
+    "ejs": "^2.5.7",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ejs": "^0.3.0"
+  },
+  "dependencies": {}
+}
