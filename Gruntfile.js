@@ -17,7 +17,7 @@ module.exports = function(grunt) {
           yuicompress: true
         },
         files: {
-          'public/style.css': 'src/css/less/style.less'
+          'public/style.css': 'src/css/style.less'
         }
       }
     },
@@ -34,7 +34,7 @@ module.exports = function(grunt) {
       server: {
         options: {
           port: 8080,
-          base: 'public',
+          base: ['src','public'],
           keepalive: true,
           debug: true,
           open: {

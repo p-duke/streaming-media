@@ -1,0 +1,87 @@
+// Variables------------------------------------------------------
+// grid variables
+@grid-columns: 12;
+@grid-max-width: 1040px;
+
+// breakpoints
+@mobile: ~"only screen and (max-width: 480px)";
+@tablet: ~"only screen and (min-width: 750px)";
+@desktop: ~"only screen and (min-width: 1000px)";
+
+// Mixins------------------------------------------------------
+.border-box {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.debug {
+  border: 1px solid red;
+}
+
+.generate-columns(@n, @i: 1) when (@i =< @n) {
+  .column-@{i} {
+    width: (100% / @n * @i);
+  }
+  .generate-columns(@n, (@i + 1));
+}
+
+// Grid------------------------------------------------------
+/*make sure that padding applied to elements is added within calculated dimensions*/
+
+*,
+*:after,
+*:before {
+  margin: 0;
+  .border-box;
+}
+
+/*add a rule to make sure any images used behave fluidly*/
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+// clearfix
+.wrapper,
+.row {
+  *zoom: 1;
+}
+
+/*the rows*/
+.wrapper:before,
+.row:before,
+.wrapper:after,
+.row:after {
+  content: "";
+  display: table;
+}
+
+.wrapper:after,
+.row:after {
+  clear: both;
+}
+
+/*the columns*/
+[class*='column-'] {
+  float: left;
+  padding: 16px;
+  width: 100%;
+  min-height: 1px;
+}
+
+@media only screen and (min-width: 480px) {
+  .wrapper {
+    width: 95%;
+    max-width: @grid-max-width;
+  }
+
+  .generate-columns(@grid-columns);
+}
+
