@@ -1,0 +1,108 @@
+// Variables------------------------------------------------------
+// breakpoints
+@mobile: ~"only screen and (max-width: 480px)";
+@tablet: ~"only screen and (min-width: 750px)";
+@desktop: ~"only screen and (min-width: 1000px)";
+
+.carousel { 
+  visibility: visible;
+  position: relative;
+
+  &__overlay {
+    position: absolute;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    opacity: 0.05;
+  }
+
+  &__left-arrow {
+    width: 24px;
+    position: absolute;
+    z-index: 1;
+    top: 142px;
+    left: 13px;
+  }
+
+  &__right-arrow {
+    width: 24px;
+    position: absolute;
+    z-index: 1;
+    top: 135px;
+    right: 13px;
+  }
+
+  &__item-info {
+    position: absolute;
+    top: 160px;
+    margin: 82px 0px 0px 125px;
+    width: 322px;
+    text-align: center;
+    padding-top: 29px;
+
+    p {
+      width: 30%;
+      visibility: hidden;
+    }
+
+  }
+
+  // slick overrides
+  .slick-slide {
+    &__img {
+      width: 600px;
+      height: 400px;
+    }
+
+    &__play {
+      width: 140px;
+      position: absolute;
+      top: 110px;
+      margin-left: 218px;
+      visibility: hidden;
+    }
+  }
+
+  .slick-dots {
+    bottom: 7px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .slick-dots li button:before {
+    font-size: 12px;
+    opacity: 1;
+    color: white;
+  }
+
+  .slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: red;
+  }
+
+  @media @tablet {
+    &__item-info {
+      position: absolute;
+      top: 160px;
+      margin: 82px 0px 0px 22px;
+      width: 578px;
+      text-align: left;
+      height: 159px;
+      padding-top: 0px;
+
+      p {
+        width: 100%;
+        visibility: visible;
+        position: absolute;
+        bottom: 43px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        padding-right: 15px;
+      }
+    }
+  }
+}
+

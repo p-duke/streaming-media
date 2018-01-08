@@ -1,7 +1,12 @@
-<ul>
+<div class="carousel">
   <% data.forEach(function(item) { %>
-  <li><%= item.title %></li>
-  <li><%= item.description %></li>
-  <li><img src="<%= item.image %>"/></li>
+  <div>
+    <div class="carousel__item-info">
+      <h1><%= item.title %></h1>
+      <p><%= item.description %></p>
+    </div>
+    <img class="slick-slide__play" src="../images/play.svg" alt="<%= item.title %>">
+    <img class="slick-slide__img" src="<%= item.image %>" alt="<%= item.title %>">
+  </div>
   <% }); %>
-</ul>
+</div>
