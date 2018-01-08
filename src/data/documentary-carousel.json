@@ -1,0 +1,66 @@
+[
+  {
+    "mediaid": "kiq5jnfX",
+    "description": "With automatic access to genius, Noma: My Perfect Storm is a creative journey into the unique mind of René Redzepi. How did Redzepi manage to revolutionize the entire world of gastronomy, inventing the alphabet and vocabulary that would infuse newfound pedigree to Nordic cuisine and establish a new edible world while radically changing the image of the modern chef?",
+    "pubdate": 1449848295,
+    "tags": "documentary,trailer",
+    "image": "https://content.jwplatform.com/thumbs/kiq5jnfX-720.jpg",
+    "title": "Noma",
+    "custom": {},
+    "sources": [
+      {
+        "duration": 122,
+        "type": "application/vnd.apple.mpegurl",
+        "file": "https://content.jwplatform.com/manifests/kiq5jnfX.m3u8"
+      },
+      {
+        "label": "H.264 320px",
+        "width": 320,
+        "file": "https://content.jwplatform.com/videos/kiq5jnfX-AgylS15n.mp4",
+        "duration": 122,
+        "height": 180,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 480px",
+        "width": 480,
+        "file": "https://content.jwplatform.com/videos/kiq5jnfX-8LSW5F2t.mp4",
+        "duration": 122,
+        "height": 270,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 720px",
+        "width": 720,
+        "file": "https://content.jwplatform.com/videos/kiq5jnfX-PA9rXzRh.mp4",
+        "duration": 122,
+        "height": 406,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 1280px",
+        "width": 1280,
+        "file": "https://content.jwplatform.com/videos/kiq5jnfX-p3ZNjGCa.mp4",
+        "duration": 122,
+        "height": 720,
+        "type": "video/mp4"
+      },
+      {
+        "label": "AAC Audio",
+        "width": -1,
+        "file": "https://content.jwplatform.com/videos/kiq5jnfX-pSu3VlhO.m4a",
+        "duration": 122,
+        "height": -1,
+        "type": "audio/mp4"
+      }
+    ],
+    "tracks": [
+      {
+        "kind": "thumbnails",
+        "file": "https://content.jwplatform.com/strips/kiq5jnfX-120.vtt"
+      }
+    ],
+    "link": "https://content.jwplatform.com/previews/kiq5jnfX",
+    "duration": 122
+  }
+]

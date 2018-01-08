@@ -1,0 +1,198 @@
+.sub-carousel {
+  &__video {
+    margin: 10px;
+
+    p {
+      width: 200px;
+      height: 40px;
+      text-align: center;
+      background-color: #484848;
+      padding: 3px;
+      color: #D3D3D3;
+      font-weight: 100;
+      font-size: 15px;
+    }
+
+    video {
+      width: 200px;
+      height: 200px;
+    }
+  }
+
+  &__menu-icon {
+    position: absolute;
+    width: 6px;
+    height: auto;
+    top: 64px;
+    margin-left: 183px;
+    z-index: 2;
+  }
+
+  &__menu-dropdown {
+    position: absolute;
+    height: 0px;
+    width: 0px;
+    transition: height 1s;
+    top: 53px;
+    p { 
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 1s;
+    }
+
+    &--activated {
+      width: 200px;
+      height: 114px;
+      background-color: black;
+      opacity: 0.8;
+
+      p {
+        visibility: visible;
+        opacity: 1;
+        background-color: transparent;
+        color: white;
+        padding: 7px;
+        margin: 5px 0px;
+      }
+    }
+  }
+
+  &__description {
+    display: none;
+
+    p {
+      height: auto;
+      padding: 10px 0px;
+    }
+  }
+
+  &__left-arrow {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    height: 155px;
+    width: 40px;
+    background-color: black;
+    opacity: 0.5;
+    padding: 53px 5px;
+    z-index: 1;
+  }
+
+  &__right-arrow {
+    position: absolute;
+    top: 54px;
+    right: 0px;
+    height: 155px;
+    width: 40px;
+    background-color: black;
+    opacity: 0.5;
+    padding: 53px 5px;
+  }
+
+  .slick-track {
+    margin-left: 81px;
+  }
+
+  @media @tablet {
+    .slick-track {
+      margin-left: 0px;
+    }
+
+    .slick-list {
+      margin-left: 70px;
+    }
+
+    &__menu-dropdown--activated {
+      top: 53px;
+    }
+
+    &__left-arrow {
+      width: 30px;
+    }
+
+    &__right-arrow {
+      width: 30px;
+      height: 196px;
+    }
+  }
+
+  @media @desktop {
+    .slick-track {
+      margin-left: 0px;
+    }
+
+    .slick-list {
+      margin-left: 70px;
+    }
+
+    &__video {
+      p {
+        width: 250px;
+        height: 25px;
+        text-align: left;
+        font-weight: 100;
+        padding-left: 10px;
+      }
+    }
+
+    &__menu-dropdown--activated {
+      width: 250px;
+      height: 200px;
+      background-color: black;
+      opacity: 0.8;
+
+      p {
+        visibility: visible;
+        opacity: 1;
+        background-color: transparent;
+        color: white;
+        padding: 7px;
+        margin: 10px 0px;
+        text-align: center;
+      }
+    }
+
+    &__left-arrow {
+      width: 30px;
+      margin-left: 10px;
+    }
+
+    &__right-arrow {
+      width: 95px;
+      height: 253px;
+      padding: 0px;
+      
+      img {
+        width: 20px;
+        height: auto;
+        padding: 0px;
+        text-align: center;
+        padding-top: 48px;
+        margin-left: 48px;
+      }
+    }
+
+    video {
+      width: 250px;
+      height: 250px;
+    }
+
+    &__menu-icon {
+      position: absolute;
+      width: 6px;
+      height: auto;
+      top: 76px;
+      margin-left: 228px;
+      z-index: 2;
+    }
+
+    &__description {
+      display: none;
+
+      p {
+        height: auto;
+        padding-right: 10px;
+      }
+    }
+  }
+}
