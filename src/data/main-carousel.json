@@ -1,0 +1,247 @@
+[
+  {
+    "mediaid": "GQlE6Rqd",
+    "description": "Directed by Stanley Kubrick: A mediation on the nature of humanity and culture beginning with pre-human discovery of tools and the future of the tools we create in our image.  The first true exposition on the social impact of Artificial Intelligence by a true visionary",
+    "pubdate": 1489104000,
+    "tags": "science fiction,trailer,artificial intelligence",
+    "image": "https://content.jwplatform.com/thumbs/GQlE6Rqd-720.jpg",
+    "title": "2001 A Space Odyssey",
+    "custom": {},
+    "sources": [
+      {
+        "duration": 111,
+        "type": "application/vnd.apple.mpegurl",
+        "file": "https://content.jwplatform.com/manifests/GQlE6Rqd.m3u8"
+      },
+      {
+        "label": "H.264 320px",
+        "width": 320,
+        "file": "https://content.jwplatform.com/videos/GQlE6Rqd-AgylS15n.mp4",
+        "duration": 111,
+        "height": 180,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 480px",
+        "width": 480,
+        "file": "https://content.jwplatform.com/videos/GQlE6Rqd-8LSW5F2t.mp4",
+        "duration": 111,
+        "height": 270,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 720px",
+        "width": 720,
+        "file": "https://content.jwplatform.com/videos/GQlE6Rqd-PA9rXzRh.mp4",
+        "duration": 111,
+        "height": 406,
+        "type": "video/mp4"
+      },
+      {
+        "label": "AAC Audio",
+        "width": -1,
+        "file": "https://content.jwplatform.com/videos/GQlE6Rqd-pSu3VlhO.m4a",
+        "duration": 111,
+        "height": -1,
+        "type": "audio/mp4"
+      }
+    ],
+    "tracks": [
+      {
+        "kind": "thumbnails",
+        "file": "https://content.jwplatform.com/strips/GQlE6Rqd-120.vtt"
+      }
+    ],
+    "link": "https://content.jwplatform.com/previews/GQlE6Rqd",
+    "duration": 111
+  },
+  {
+    "mediaid": "Vi8G4uXz",
+    "description": "Directed by Stanley Kubrick.  A useless cad wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "pubdate": 1489231361,
+    "tags": "trailer,europe",
+    "image": "https://content.jwplatform.com/thumbs/Vi8G4uXz-720.jpg",
+    "title": "Barry Lyndon",
+    "custom": {},
+    "sources": [
+      {
+        "duration": 131,
+        "type": "application/vnd.apple.mpegurl",
+        "file": "https://content.jwplatform.com/manifests/Vi8G4uXz.m3u8"
+      },
+      {
+        "label": "H.264 320px",
+        "width": 320,
+        "file": "https://content.jwplatform.com/videos/Vi8G4uXz-AgylS15n.mp4",
+        "duration": 131,
+        "height": 238,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 480px",
+        "width": 480,
+        "file": "https://content.jwplatform.com/videos/Vi8G4uXz-8LSW5F2t.mp4",
+        "duration": 131,
+        "height": 358,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 720px",
+        "width": 720,
+        "file": "https://content.jwplatform.com/videos/Vi8G4uXz-PA9rXzRh.mp4",
+        "duration": 131,
+        "height": 536,
+        "type": "video/mp4"
+      },
+      {
+        "label": "AAC Audio",
+        "width": -1,
+        "file": "https://content.jwplatform.com/videos/Vi8G4uXz-pSu3VlhO.m4a",
+        "duration": 131,
+        "height": -1,
+        "type": "audio/mp4"
+      }
+    ],
+    "tracks": [
+      {
+        "kind": "captions",
+        "file": "https://content.jwplatform.com/tracks/bhQKuTP5.vtt",
+        "label": "showcase_globalsearch_captiontestfile"
+      },
+      {
+        "kind": "thumbnails",
+        "file": "https://content.jwplatform.com/strips/Vi8G4uXz-120.vtt"
+      }
+    ],
+    "link": "https://content.jwplatform.com/previews/Vi8G4uXz",
+    "duration": 131
+  },
+  {
+    "mediaid": "ulIvytGU",
+    "description": "Mankind faces a new threat as Batman (Ben Affleck) embarks on a personal vendetta against Superman (Henry Cavill).",
+    "pubdate": 1449848295,
+    "tags": "fantasy,action and adventure and fun,trailer",
+    "image": "https://content.jwplatform.com/thumbs/ulIvytGU-720.jpg",
+    "title": "Batman v Superman: Dawn of Justice",
+    "custom": {},
+    "sources": [
+      {
+        "duration": 181,
+        "type": "application/vnd.apple.mpegurl",
+        "file": "https://content.jwplatform.com/manifests/ulIvytGU.m3u8"
+      },
+      {
+        "label": "H.264 320px",
+        "width": 320,
+        "file": "https://content.jwplatform.com/videos/ulIvytGU-AgylS15n.mp4",
+        "duration": 181,
+        "height": 180,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 480px",
+        "width": 480,
+        "file": "https://content.jwplatform.com/videos/ulIvytGU-8LSW5F2t.mp4",
+        "duration": 181,
+        "height": 270,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 720px",
+        "width": 720,
+        "file": "https://content.jwplatform.com/videos/ulIvytGU-PA9rXzRh.mp4",
+        "duration": 181,
+        "height": 406,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 1280px",
+        "width": 1280,
+        "file": "https://content.jwplatform.com/videos/ulIvytGU-p3ZNjGCa.mp4",
+        "duration": 181,
+        "height": 720,
+        "type": "video/mp4"
+      },
+      {
+        "label": "AAC Audio",
+        "width": -1,
+        "file": "https://content.jwplatform.com/videos/ulIvytGU-pSu3VlhO.m4a",
+        "duration": 181,
+        "height": -1,
+        "type": "audio/mp4"
+      }
+    ],
+    "tracks": [
+      {
+        "kind": "thumbnails",
+        "file": "https://content.jwplatform.com/strips/ulIvytGU-120.vtt"
+      }
+    ],
+    "link": "https://content.jwplatform.com/previews/ulIvytGU",
+    "duration": 181
+  },
+  {
+    "mediaid": "127Vi5Xd",
+    "description": "In an adaptation of Patricia Highsmith’s seminal novel The Price of Salt, CAROL follows two women from very different backgrounds who find themselves in an unexpected love affair in 1950s New York. As conventional norms of the time challenge their undeniable attraction, an honest story emerges to reveal the resilience of the heart in the face of change.",
+    "pubdate": 1449848295,
+    "tags": "drama,romance,trailer",
+    "image": "https://content.jwplatform.com/thumbs/127Vi5Xd-720.jpg",
+    "title": "Carol",
+    "custom": {},
+    "sources": [
+      {
+        "duration": 90,
+        "type": "application/vnd.apple.mpegurl",
+        "file": "https://content.jwplatform.com/manifests/127Vi5Xd.m3u8"
+      },
+      {
+        "label": "H.264 320px",
+        "width": 320,
+        "file": "https://content.jwplatform.com/videos/127Vi5Xd-AgylS15n.mp4",
+        "duration": 90,
+        "height": 180,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 480px",
+        "width": 480,
+        "file": "https://content.jwplatform.com/videos/127Vi5Xd-8LSW5F2t.mp4",
+        "duration": 90,
+        "height": 270,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 720px",
+        "width": 720,
+        "file": "https://content.jwplatform.com/videos/127Vi5Xd-PA9rXzRh.mp4",
+        "duration": 90,
+        "height": 406,
+        "type": "video/mp4"
+      },
+      {
+        "label": "H.264 1280px",
+        "width": 1280,
+        "file": "https://content.jwplatform.com/videos/127Vi5Xd-p3ZNjGCa.mp4",
+        "duration": 90,
+        "height": 720,
+        "type": "video/mp4"
+      },
+      {
+        "label": "AAC Audio",
+        "width": -1,
+        "file": "https://content.jwplatform.com/videos/127Vi5Xd-pSu3VlhO.m4a",
+        "duration": 90,
+        "height": -1,
+        "type": "audio/mp4"
+      }
+    ],
+    "tracks": [
+      {
+        "kind": "thumbnails",
+        "file": "https://content.jwplatform.com/strips/127Vi5Xd-120.vtt"
+      }
+    ],
+    "link": "https://content.jwplatform.com/previews/127Vi5Xd",
+    "duration": 90
+  }
+]

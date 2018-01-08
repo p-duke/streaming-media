@@ -14,12 +14,48 @@
       <img class="header__image" src="images/logo.svg" alt="Streaming Media">
     </nav>
     <div class="spacer"></div>
-    <%- include('partials/carouselList.ejs', { data: data.playlist }) %>
+
+    <%- include('partials/mainCarouselList.ejs', { data: mainCarousel }) %>
+
+    <div class="row">
+      <div class="column-12">
+        <h2 class="genre-header"><%= titles.action %></h2>
+        <%- include('partials/subCarouselList.ejs', { data: action, titles: titles }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column-12">
+        <h2 class="genre-header"><%= titles.drama %></h2>
+        <%- include('partials/subCarouselList.ejs', { data: drama }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column-12">
+        <h2 class="genre-header"><%= titles.thriller %></h2>
+        <%- include('partials/subCarouselList.ejs', { data: thriller }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column-12">
+        <h2 class="genre-header"><%= titles.scienceFiction %></h2>
+        <%- include('partials/subCarouselList.ejs', { data: science, titles: titles }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column-12">
+        <h2 class="genre-header"><%= titles.comedy %></h2>
+        <%- include('partials/subCarouselList.ejs', { data: comedy }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column-12">
+        <h2 class="genre-header"><%= titles.doc %></h2>
+        <%- include('partials/subCarouselList.ejs', { data: documentary }) %>
+      </div>
+    </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript" src="../javascript/index.js"></script>
-    <!--<script type="text/javascript" src="../javascript/modernizer.js"></script>-->
-    <!--<script type="text/javascript" src="../javascript/flex-carousel.js"></script>-->
   </body>
 </html>

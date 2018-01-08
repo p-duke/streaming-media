@@ -1,0 +1,19 @@
+<div class="sub-carousel">
+  <% data.forEach(function(item) { %>
+  <div class="sub-carousel__video">
+    <div class="sub-carousel__menu-dropdown">
+      <p>Play</p>
+      <p>Fullscreen</p>
+      <p>Mute</p>
+    </div>
+    <img class="sub-carousel__menu-icon" src="../images/menu.svg" alt="video controls">
+    <video poster="<%= item.image %>" controls>
+      <source src="<%= item.sources[1].file %>" type="video/mp4">
+    </video>
+    <p class="sub-carousel__title"><%= item.title %></p>
+    <div class="sub-carousel__description">
+      <p><%= item.description %></p>
+    </div>
+  </div>
+  <% }); %>
+</div>

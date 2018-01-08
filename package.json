@@ -19,11 +19,11 @@
   "devDependencies": {
     "ejs": "^2.5.7",
     "grunt": "^1.0.1",
-    "grunt-browserify": "^5.2.0",
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-less": "^1.4.1",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-ejs": "^0.3.0"
+    "grunt-ejs": "^0.3.0",
+    "request": "^2.83.0"
   },
   "dependencies": {}
 }
