@@ -5,7 +5,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-ejs');
   grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-browserify');
 
   grunt.registerTask('getData', function() {
     var done = this.async();

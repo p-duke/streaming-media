@@ -45,12 +45,8 @@ $(document).ready(function() {
     ]
   });
 
-  $('.sub-carousel__menu-icon').hover(
-    function() {
-      $(this).prev().addClass('sub-carousel__menu-dropdown--activated');
-    },
-    function() {
-      $(this).prev().removeClass('sub-carousel__menu-dropdown--activated');
+  $('.sub-carousel__menu-icon').click(function() {
+      $(this).prev().toggleClass('sub-carousel__menu-dropdown--activated');
     }
   );
 
