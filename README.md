@@ -2,7 +2,7 @@
 
 In the layout of the project I tried to mimick the design of the pdf mockup as closely as possible. In each video section under the main carousel included a video menu overlay
 (vertical dot icon) that will drop down when clicked. This will show a 'Share', 'Add to playlist', and 'Not interested' menu items because I felt these were features that
-offered additional value to the user. These options aren't currently functional but merely a product development exercise.
+offered additional value to the user. These options aren't currently functional but merely a product development exercise. If the user hovers over the video title it will expand the video description.
 
 I used Grunt, Less, and Embedded JS templates to build the webpage. I created a responsive grid with LESS and focused on using two partial views for the carousels. 
 Grunt tasks are configured to fetch the json data, and build the LESS and EJS files. I also included a simple Grunt server to serve the assets. The final webpage can 
