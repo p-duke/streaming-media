@@ -19,3 +19,5 @@ the neccessary functionality.
 `npm install && grunt`
 
 The page should automatically open to http://localhost:8080/
+
+![alt text](https://github.com/p-duke/streaming-media/blob/master/src/images/mockup.png)
