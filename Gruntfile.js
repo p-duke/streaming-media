@@ -1,11 +1,6 @@
 var request = require('request');
 
 module.exports = function(grunt) {
-  grunt.loadNpmTasks('grunt-contrib-less');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-ejs');
-  grunt.loadNpmTasks('grunt-contrib-connect');
-
   grunt.registerTask('getData', function() {
     var done = this.async();
     request('https://content.jwplatform.com/feeds/f49AJ8N4.json', function(err, res, html) {
@@ -33,6 +28,25 @@ module.exports = function(grunt) {
 
   grunt.initConfig({ 
     pkg: grunt.file.readJSON('package.json'), 
+    copy: {
+      images: {
+        expand: true,
+        cwd: 'src/',
+        src: 'images/**',
+        dest: 'build/images/',
+        flatten: true,
+        filter: 'isFile',
+      },
+    },
+    uglify: {
+      options: {
+        banner: '/*! <%= pkg.name %> <% grunt.template.today("yyyy-mm-dd") %> */\n'
+      },
+      build: {
+        src: 'src/javascript/index.js',
+        dest: 'build/index.min.js'
+      },
+    },
     less: {
       development: {
         options: {
@@ -40,7 +54,8 @@ module.exports = function(grunt) {
           yuicompress: true
         },
         files: {
-          'public/style.css': 'src/css/style.less'
+          'public/style.css': 'src/css/style.less',
+          'build/style.css': 'src/css/style.less'
         }
       }
     },
@@ -58,6 +73,7 @@ module.exports = function(grunt) {
         },
         src: 'src/views/layout.ejs',
         dest: 'public/index.html',
+        dest: 'build/index.html'
       },
     },
     connect: {
@@ -88,6 +104,14 @@ module.exports = function(grunt) {
     },
   });
 
+  grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-ejs');
+  grunt.loadNpmTasks('grunt-contrib-connect');
+  grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-contrib-copy');
+
   grunt.registerTask('default', ['getData', 'less', 'ejs', 'connect']);
+  grunt.registerTask('build-prod', ['getData', 'less', 'ejs', 'uglify', 'copy']);
 };
 
