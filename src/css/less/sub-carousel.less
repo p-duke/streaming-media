@@ -20,10 +20,10 @@
   }
 
   &__menu-icon {
-    position: absolute;
+    position: relative;
     width: 6px;
     height: auto;
-    top: 64px;
+    top: 80px;
     margin-left: 183px;
     z-index: 2;
   }
@@ -33,7 +33,7 @@
     height: 0px;
     width: 0px;
     transition: height 1s;
-    top: 53px;
+    top: 80px;
     p { 
       visibility: hidden;
       opacity: 0;
@@ -42,7 +42,7 @@
 
     &--activated {
       width: 200px;
-      height: 114px;
+      height: 120px;
       background-color: black;
       opacity: 0.8;
 
@@ -68,10 +68,10 @@
 
   &__left-arrow {
     position: absolute;
-    top: 54px;
+    top: 83px;
     left: 0px;
-    height: 155px;
-    width: 40px;
+    height: 200px;
+    width: 42px;
     background-color: black;
     opacity: 0.5;
     padding: 53px 5px;
@@ -80,10 +80,10 @@
 
   &__right-arrow {
     position: absolute;
-    top: 54px;
+    top: 80px;
     right: 0px;
-    height: 155px;
-    width: 40px;
+    height: 205px;
+    width: 42px;
     background-color: black;
     opacity: 0.5;
     padding: 53px 5px;
@@ -111,8 +111,13 @@
     }
 
     &__right-arrow {
-      width: 30px;
-      height: 196px;
+      width: 112px;
+      height: 201px;
+      top: 81px;
+
+      img {
+        width: 22px;
+      }
     }
   }
 
@@ -135,6 +140,10 @@
       }
     }
 
+    &__menu-dropdown {
+      top: 93px;
+    }
+
     &__menu-dropdown--activated {
       width: 250px;
       height: 200px;
@@ -155,12 +164,14 @@
     &__left-arrow {
       width: 30px;
       margin-left: 10px;
+      margin-top: 35px;
     }
 
     &__right-arrow {
       width: 95px;
       height: 253px;
       padding: 0px;
+      top: 94px;
       
       img {
         width: 20px;
@@ -169,6 +180,7 @@
         text-align: center;
         padding-top: 48px;
         margin-left: 48px;
+        margin-top: 26px;
       }
     }
 
@@ -178,10 +190,10 @@
     }
 
     &__menu-icon {
-      position: absolute;
+      position: relative;
       width: 6px;
       height: auto;
-      top: 76px;
+      top: 96px;
       margin-left: 228px;
       z-index: 2;
     }
