@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $('.carousel').slick({
+    initialSlide: 1,
     dots: true,
     centerMode:true,
     slidesToShow: 3,
@@ -50,12 +51,18 @@ $(document).ready(function() {
     }
   );
 
-  $('.sub-carousel__title').hover(
+  $('.sub-carousel__title').hover(function() {
+    $(this).next().animate({
+      display: "block",
+      height: "toggle",
+    }, 1000);
+  },
     function() {
-      $(this).next().css('display', 'block');
-    },
-    function() {
-      $(this).next().css('display', 'none');
+      $(this).next().animate({
+        display: "none",
+        height: "toggle",
+      }, 1000);
     }
   );
+
 });

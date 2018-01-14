@@ -54,7 +54,6 @@ module.exports = function(grunt) {
           yuicompress: true
         },
         files: {
-          'public/style.css': 'src/css/style.less',
           'build/style.css': 'src/css/style.less'
         }
       }
@@ -72,7 +71,6 @@ module.exports = function(grunt) {
           titles: { scienceFiction: 'Science Fiction', action: 'Action Adventure and Fun', drama: 'Drama', thriller: 'Thriller', comedy: 'Comedy', doc: 'Documentary' }
         },
         src: 'src/views/layout.ejs',
-        dest: 'public/index.html',
         dest: 'build/index.html'
       },
     },
@@ -80,7 +78,7 @@ module.exports = function(grunt) {
       server: {
         options: {
           port: 8080,
-          base: ['src','public'],
+          base: ['src','build'],
           keepalive: true,
           debug: true,
           open: {
@@ -101,6 +99,10 @@ module.exports = function(grunt) {
         files: 'src/views/**/*.ejs',
         tasks: 'ejs'
       },
+      uglify: {
+        files: 'src/javascript/**/*.js',
+        tasks: 'uglify'
+      },
     },
   });
 
@@ -111,7 +113,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-copy');
 
-  grunt.registerTask('default', ['getData', 'less', 'ejs', 'connect']);
+  grunt.registerTask('default', ['getData', 'less', 'ejs', 'uglify', 'connect']);
   grunt.registerTask('build-prod', ['getData', 'less', 'ejs', 'uglify', 'copy']);
 };
 
